@@ -1,0 +1,10 @@
+Workspace
+
+# Sublime Text
+*.sublime-workspace
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes

@@ -1,0 +1,28 @@
+{
+   "manifest_version": 2,
+
+   "version": "1.0",
+
+   "author": "Darren Mo",
+   "name": "Polite Phabricator",
+   "short_name": "Polite Phab",
+   "description": "Feel less intimidated by change requests in Phabricator.",
+
+   "minimum_chrome_version": "51",
+   "content_scripts": [
+      {
+         "matches": [
+            "*://*/D*"
+         ],
+         "js": [
+            "differential_modify.js",
+            "main.js"
+         ],
+         "run_at": "document_end"
+      }
+   ],
+   "permissions": [
+      "tabs",
+      "*://*/D*"
+   ]
+}
