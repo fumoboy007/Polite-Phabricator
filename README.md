@@ -21,3 +21,4 @@ Thanks to everyone who helped make this a reality!
 ### Design
 
 - Yue Ma
+- [Font Awesome](http://fontawesome.io) by Dave Gandy
