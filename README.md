@@ -2,7 +2,7 @@
 
 Phabricator allows reviewers to block diffs via its Request Changes feature. However, using the feature can create tension between teammates because its visual design may come across as insensitive. Polite Phabricator is a browser extension that tweaks the visual design of the Request Changes feature to make it seem friendlier.
 
-![Screenshot of Phabricator with extension enabled.](/Marketing/Chrome Screenshot.png?raw=true)
+![Screenshot of Phabricator with extension enabled.](/Marketing/Chrome%20Screenshot.png?raw=true)
 
 ## Browser Support
 
