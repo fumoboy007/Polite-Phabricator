@@ -48,5 +48,7 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Website</key>
+	<string>https://github.com/fumoboy007/Polite-Phabricator</string>
 </dict>
 </plist>
